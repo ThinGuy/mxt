@@ -1,4 +1,5 @@
-# mxt
-Example MAAS XPath Tags for use with MAAS Xpath Auto Tagging
+# We've Moved to Canonical's Github!
+Please visit [MAAS XPath Tags](https://github.com/canonical/mxt)
+
 
 
